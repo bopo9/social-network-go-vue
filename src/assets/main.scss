@@ -1,0 +1,58 @@
+$primary: #4cb2aa;
+$darkPrimary: #358d87;
+$warning: #d7a331;
+$danger: #d23249;
+$success: #61d932;
+$link: #2dace1;
+$linkHover: #602de1;
+$title: #ffffff;
+$black: #484848;
+$colour1: #f1c40f;
+$colour2: #2c3e50;
+$speed: 4s;
+
+.position-a{
+  position: absolute;
+}
+
+.position-r{
+  position: relative;
+}
+
+.border-line-1 {
+  width: 100%;
+  border: 1px solid #8c8c8c;
+  margin: 10px 0 10px 0;
+}
+
+.gap-2{
+  gap: 2rem;
+}
+
+.gap-3{
+  gap: 3rem;
+}
+
+.w-50 {
+  width: 60%;
+}
+
+.w-30 {
+  width: 30%;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.justify-around {
+  justify-content: space-around;
+}
